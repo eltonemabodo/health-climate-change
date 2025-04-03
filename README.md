@@ -5,4 +5,4 @@ Survey (ZDHS) and using weight-for-age, and hieght-for-age z scores to measure t
 The files are arranged as follows:
 
 - `code/` - all the code used for cleaning and analysis of the data.
-- `data/` - only cleaned and processed data is tracked, to comply with the ethical requirements of the DHS program.
+- `processed data/` - only cleaned and processed data is tracked, to comply with the ethical requirements of the DHS program.
